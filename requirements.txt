@@ -1,0 +1,11 @@
+torch
+transformers
+pandas
+numpy
+PyPDF2
+python-docx
+openpyxl
+gradio
+datasets
+scikit-learn
+accelerate>=0.26.0
